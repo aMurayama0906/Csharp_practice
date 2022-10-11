@@ -1,0 +1,15 @@
+/Users/atsushimurayama/Desktop/Cシャープ/problem/problem/obj/Debug/net6.0/problem.csproj.AssemblyReference.cache
+/Users/atsushimurayama/Desktop/Cシャープ/problem/problem/obj/Debug/net6.0/problem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/atsushimurayama/Desktop/Cシャープ/problem/problem/obj/Debug/net6.0/problem.AssemblyInfoInputs.cache
+/Users/atsushimurayama/Desktop/Cシャープ/problem/problem/obj/Debug/net6.0/problem.AssemblyInfo.cs
+/Users/atsushimurayama/Desktop/Cシャープ/problem/problem/obj/Debug/net6.0/problem.csproj.CoreCompileInputs.cache
+/Users/atsushimurayama/Desktop/Cシャープ/problem/problem/bin/Debug/net6.0/problem
+/Users/atsushimurayama/Desktop/Cシャープ/problem/problem/bin/Debug/net6.0/problem.deps.json
+/Users/atsushimurayama/Desktop/Cシャープ/problem/problem/bin/Debug/net6.0/problem.runtimeconfig.json
+/Users/atsushimurayama/Desktop/Cシャープ/problem/problem/bin/Debug/net6.0/problem.dll
+/Users/atsushimurayama/Desktop/Cシャープ/problem/problem/bin/Debug/net6.0/problem.pdb
+/Users/atsushimurayama/Desktop/Cシャープ/problem/problem/obj/Debug/net6.0/problem.dll
+/Users/atsushimurayama/Desktop/Cシャープ/problem/problem/obj/Debug/net6.0/refint/problem.dll
+/Users/atsushimurayama/Desktop/Cシャープ/problem/problem/obj/Debug/net6.0/problem.pdb
+/Users/atsushimurayama/Desktop/Cシャープ/problem/problem/obj/Debug/net6.0/problem.genruntimeconfig.cache
+/Users/atsushimurayama/Desktop/Cシャープ/problem/problem/obj/Debug/net6.0/ref/problem.dll

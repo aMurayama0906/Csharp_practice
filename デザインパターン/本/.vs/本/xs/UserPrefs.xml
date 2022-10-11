@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{1C11DB00-C1A2-4420-8367-8B3A972AE091}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.本 PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="本/BookShelf.cs">
+    <Files>
+      <File FileName="本/Program.cs" Line="1" Column="1" />
+      <File FileName="本/Iterable.cs" Line="3" Column="22" />
+      <File FileName="本/Iterator.cs" Line="5" Column="3" />
+      <File FileName="本/Book.cs" Line="8" Column="9" />
+      <File FileName="本/BookShelf.cs" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="本" expanded="True">
+            <Node name="本" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="BookShelf.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

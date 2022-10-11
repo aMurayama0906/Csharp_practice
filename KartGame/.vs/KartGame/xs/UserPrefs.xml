@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{29CD74BB-CE5C-4FB4-902F-962D5D8FDAB7}|Default">
+  <MonoDevelop.Ide.ItemProperties.KartGame PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="KartGame/Program.cs">
+    <Files>
+      <File FileName="KartGame/Program.cs" Line="15" Column="31" />
+      <File FileName="KartGame/SkyKart.cs" Line="17" Column="1" />
+      <File FileName="KartGame/TurboKart.cs" Line="17" Column="38" />
+      <File FileName="KartGame/Kart.cs" Line="18" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="KartGame" expanded="True">
+            <Node name="KartGame" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

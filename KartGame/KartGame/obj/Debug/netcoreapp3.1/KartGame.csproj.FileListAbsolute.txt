@@ -1,0 +1,14 @@
+/Users/atsushimurayama/Desktop/Cシャープ/KartGame/KartGame/bin/Debug/netcoreapp3.1/KartGame
+/Users/atsushimurayama/Desktop/Cシャープ/KartGame/KartGame/bin/Debug/netcoreapp3.1/KartGame.deps.json
+/Users/atsushimurayama/Desktop/Cシャープ/KartGame/KartGame/bin/Debug/netcoreapp3.1/KartGame.runtimeconfig.json
+/Users/atsushimurayama/Desktop/Cシャープ/KartGame/KartGame/bin/Debug/netcoreapp3.1/KartGame.runtimeconfig.dev.json
+/Users/atsushimurayama/Desktop/Cシャープ/KartGame/KartGame/bin/Debug/netcoreapp3.1/KartGame.dll
+/Users/atsushimurayama/Desktop/Cシャープ/KartGame/KartGame/bin/Debug/netcoreapp3.1/KartGame.pdb
+/Users/atsushimurayama/Desktop/Cシャープ/KartGame/KartGame/obj/Debug/netcoreapp3.1/KartGame.csproj.AssemblyReference.cache
+/Users/atsushimurayama/Desktop/Cシャープ/KartGame/KartGame/obj/Debug/netcoreapp3.1/KartGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/atsushimurayama/Desktop/Cシャープ/KartGame/KartGame/obj/Debug/netcoreapp3.1/KartGame.AssemblyInfoInputs.cache
+/Users/atsushimurayama/Desktop/Cシャープ/KartGame/KartGame/obj/Debug/netcoreapp3.1/KartGame.AssemblyInfo.cs
+/Users/atsushimurayama/Desktop/Cシャープ/KartGame/KartGame/obj/Debug/netcoreapp3.1/KartGame.csproj.CoreCompileInputs.cache
+/Users/atsushimurayama/Desktop/Cシャープ/KartGame/KartGame/obj/Debug/netcoreapp3.1/KartGame.dll
+/Users/atsushimurayama/Desktop/Cシャープ/KartGame/KartGame/obj/Debug/netcoreapp3.1/KartGame.pdb
+/Users/atsushimurayama/Desktop/Cシャープ/KartGame/KartGame/obj/Debug/netcoreapp3.1/KartGame.genruntimeconfig.cache
